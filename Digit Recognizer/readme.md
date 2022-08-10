@@ -1,2 +1,2 @@
-https://www.kaggle.com/competitions/digit-recognizer
+https://www.kaggle.com/competitions/digit-recognizer  
 0.93128
