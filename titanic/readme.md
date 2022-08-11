@@ -1,2 +1,2 @@
 https://www.kaggle.com/competitions/titanic  
-0.76555
+Naive Bayes: 0.76555
