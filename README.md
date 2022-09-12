@@ -2,4 +2,4 @@
 
 
 Titanic: 0.76555  
-Digit Recognizer: 0.97578
+Digit Recognizer: 0.98042
